@@ -1,12 +1,12 @@
-#Deployed link-> https://celebrated-platypus-6d878d.netlify.app/
+# Deployed link-> https://celebrated-platypus-6d878d.netlify.app/
 
-#Application Overview:
+# Application Overview:
 The application consists of two main pages:
 
-1. Contacts:
+# 1. Contacts:
 This page empowers you to efficiently manage your contacts. You can seamlessly add new contacts by completing a simple form, and the newly added contact will be seamlessly integrated into your contact list. Additionally, you have the capability to modify or remove existing contacts. Clicking on a contact's name will seamlessly transition you to a dedicated contact details page.
 
-2. Charts and Maps:
+# 2. Charts and Maps:
 On this page, you can explore comprehensive COVID-19 data for various countries. The dynamic presentation includes an insightful line graph, visually representing fluctuations in COVID-19 cases over time. Additionally, an interactive map is showcased, adorned with markers that highlight individual countries. These markers provide key information, including the country's name, the total number of active cases, recovered cases, and unfortunate fatalities. This critical data is presented through informative popups.
 
 API Integration:
