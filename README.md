@@ -1,3 +1,31 @@
+Deployed link-> https://celebrated-platypus-6d878d.netlify.app/
+
+Application Overview:
+The application consists of two main pages:
+
+1. Contacts:
+This page empowers you to efficiently manage your contacts. You can seamlessly add new contacts by completing a simple form, and the newly added contact will be seamlessly integrated into your contact list. Additionally, you have the capability to modify or remove existing contacts. Clicking on a contact's name will seamlessly transition you to a dedicated contact details page.
+
+2. Charts and Maps:
+On this page, you can explore comprehensive COVID-19 data for various countries. The dynamic presentation includes an insightful line graph, visually representing fluctuations in COVID-19 cases over time. Additionally, an interactive map is showcased, adorned with markers that highlight individual countries. These markers provide key information, including the country's name, the total number of active cases, recovered cases, and unfortunate fatalities. This critical data is presented through informative popups.
+
+API Integration:
+To furnish the app with accurate and real-time data, it makes use of the following APIs:
+
+Worldwide COVID-19 Data:
+Endpoint: https://disease.sh/v3/covid-19/all
+Purpose: This API endpoint provides an encompassing overview of COVID-19 cases globally.
+
+Country-Specific COVID-19 Data:
+Endpoint: https://disease.sh/v3/covid-19/countries
+Purpose: Utilizing this endpoint, the app gathers specific COVID-19 statistics for individual countries.
+
+Graphical Historical Data for Cases:
+Endpoint: https://disease.sh/v3/covid-19/historical/all?lastdays=all
+Purpose: This API endpoint serves graphical data, enabling the app to construct informative line graphs depicting the progression of COVID-19 cases over a defined period.
+
+This integration of robust APIs ensures that the app consistently delivers up-to-date and insightful COVID-19 data, fostering a seamless and informative user experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
